@@ -5,7 +5,7 @@ import { PiCashRegisterThin } from 'react-icons/pi';
 import { Link } from 'react-router-dom';
 
 
-// Define the RegisterPage functional component
+// RegisterPage functional component
 function RegisterPage() {
     return (
       <>

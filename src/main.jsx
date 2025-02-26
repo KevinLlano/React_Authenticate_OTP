@@ -1,7 +1,9 @@
 import { StrictMode } from 'react'; // React's StrictMode for highlighting potential problems in an application
 import { createRoot } from 'react-dom/client'; // Create root for rendering the React app
-import './index.css'; 
-import App from './App.jsx'; 
+import './index.css'; // This will apply Tailwind and your custom styles
+
+import App from './App.jsx';
+
 import Layout from './Layout'; 
 import { BrowserRouter, Route, Routes } from 'react-router'; // Import routing components from React Router
 
@@ -39,7 +41,7 @@ createRoot(document.getElementById('root')).render(
           
           <Route path="reset-password" element={<ResetPasswordPage />} />
           
-          <Route path="verify-otp" element={<VerifyOTPPage />} />
+          <Route path="verify-email" element={<VerifyOTPPage />} />
         </Route>
 
         {/* Catch-all route for 404 Page Not Found */}
