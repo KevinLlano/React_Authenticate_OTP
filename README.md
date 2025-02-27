@@ -8,7 +8,7 @@
 - **Containerization & Orchestration:** Docker
 - **Testing:** Jest (for unit testing), Selenium WebDriver (for browser automation)
 - **Authentication & Security:** Secure Login & Signup, OTP Verification, JWT Authentication
-- **Deployment & Hosting: ** Netlify
+- **Deployment & Hosting: ** Netlify: https://react-authenticate-otp.netlify.app/
 
 
 
