@@ -4,7 +4,7 @@
 
 /* Global background */
 body {
-    background-image: url('./public/bg-final.jpg'); /* Ensure the path is correct */
+    background-image: url('./public/bg-final.jpg'); 
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -20,6 +20,6 @@ body {
 html, body {
     margin: 0;
     padding: 0;
-    overflow-x: hidden; /* Prevent horizontal scrolling */
+    overflow-x: hidden; 
   }
   
