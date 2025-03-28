@@ -4,7 +4,7 @@
 
 /* Global background */
 body {
-    background-image: url('./public/bg-final.jpg'); /* Ensure the path is correct */
+    background-image: url('/bg-final.jpg');  
     background-position: center;
     background-size: cover;
     height: 100vh;
