@@ -16,7 +16,7 @@ function ForgetPasswordPage() {
           <CustomInput
             type="email"
             name="email"
-            placeholder="example@gmil.com"
+            placeholder="example@gmail.com"
           />
         </div>
         <Button type="submit">Submit</Button>
